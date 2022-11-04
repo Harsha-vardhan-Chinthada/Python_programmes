@@ -1,0 +1,10 @@
+lst= ["india","japan","china"]
+print(lst)
+lst.append("united states of america")
+print(lst)
+del(lst[2])
+print(lst)
+lst.insert(1,"england")
+print(lst)
+#del(lst)
+#print(lst)
