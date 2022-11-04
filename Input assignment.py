@@ -1,0 +1,8 @@
+print("Onions,Lettuce,Tomato,Olives,Peppers,Chicken")
+print("Pick three Toppings")
+a= (input("Select first item: "))
+b= (input("Select second item: "))
+c= (input("Select third item: "))
+x= int(input("How many items: "))
+y=(x*5)
+print("Your bill is: ",y)
